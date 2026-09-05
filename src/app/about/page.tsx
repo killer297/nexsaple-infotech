@@ -4,7 +4,7 @@ import useScrollReveal from "@/hooks/useScrollReveal";
 
 const team = [
   {
-    name: "Ankit Verma",
+    name: "Ankur Sharma",
     role: "Founder & CEO",
     bio: "Digital marketing veteran with 10+ years driving growth for startups and enterprises.",
   },
