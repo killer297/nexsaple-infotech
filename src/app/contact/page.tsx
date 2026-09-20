@@ -47,7 +47,7 @@ export default function ContactPage() {
                 </h2>
                 <div className="mt-4 flex h-64 items-center justify-center rounded-xl border border-white/[0.06] bg-white/[0.025]">
                   <p className="text-sm text-dim">
-                    📍 Map placeholder — Noida, Uttar Pradesh, India
+                    📍 Map placeholder — Lucknow, Uttar Pradesh, India
                   </p>
                 </div>
               </div>
@@ -58,19 +58,19 @@ export default function ContactPage() {
                 {
                   icon: "✉",
                   title: "Email Us",
-                  lines: ["hello@nexsaple.com", "support@nexsaple.com"],
+                  lines: ["support@nexsaple.com"],
                 },
                 {
                   icon: "☎",
                   title: "Call Us",
-                  lines: ["+91 98765 43210", "+91 120 456 7890"],
+                  lines: ["+91 9369641023"],
                 },
                 {
                   icon: "📍",
                   title: "Visit Us",
                   lines: [
                     "Nexsaple Infotech Pvt. Ltd.",
-                    "Sector 62, Noida",
+                    "Gomti Nagar, Lucknow",
                     "Uttar Pradesh 201301, India",
                   ],
                 },
@@ -78,8 +78,8 @@ export default function ContactPage() {
                   icon: "⏰",
                   title: "Working Hours",
                   lines: [
-                    "Mon – Fri: 9:00 AM – 7:00 PM",
-                    "Sat: 10:00 AM – 4:00 PM",
+                    "Mon – Fri: 10:00 AM – 5:00 PM",
+                    "Sat: 11:00 AM – 4:00 PM",
                     "Sun: Closed",
                   ],
                 },
