@@ -4,32 +4,32 @@ import useScrollReveal from "@/hooks/useScrollReveal";
 
 const team = [
   {
-    name: "Ankit Verma",
+    name: "Ankur Sharma",
     role: "Founder & CEO",
-    bio: "Digital marketing veteran with 10+ years driving growth for startups and enterprises.",
+    bio: "Passionate about technology, innovation, and entrepreneurship, with a strong focus on delivering reliable, scalable, and customer-centric solutions. Committed to creating a culture of excellence, continuous learning, and innovation while driving the organization toward sustainable growth and long-term success.",
   },
   {
-    name: "Sneha Kapoor",
+    name: "Sharad Chaurasiya",
     role: "Head of Strategy",
     bio: "Data-obsessed strategist who turns market insights into winning campaigns.",
   },
   {
-    name: "Ravi Kumar",
+    name: "Ankit Verma",
     role: "Lead Developer",
     bio: "Full-stack engineer specializing in high-performance, conversion-focused web experiences.",
   },
   {
-    name: "Priyanka Joshi",
+    name: "Arpit Chaurasiya",
     role: "Creative Director",
     bio: "Award-winning designer who crafts brand identities that leave lasting impressions.",
   },
   {
-    name: "Mohit Singh",
-    role: "SEO Specialist",
-    bio: "Search engine expert with a track record of ranking clients in the top 3 consistently.",
+    name: "Anjali Singh",
+    role: "HR Manager",
+    bio: "A dedicated and people-focused HR Manager responsible for building a positive workplace culture, managing talent acquisition, supporting employee development, and ensuring effective HR operations. Experienced in recruitment, onboarding, employee relations, performance management, HR policies, and team coordination.",
   },
   {
-    name: "Divya Nair",
+    name: " Swapnil Raj",
     role: "Social Media Lead",
     bio: "Community builder who turns brand pages into engaged, loyal audiences.",
   },
